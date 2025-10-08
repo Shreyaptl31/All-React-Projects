@@ -1,0 +1,7 @@
+hello this is akshay 
+
+git init
+git status
+git add .
+git commit -m "ak text file created"
+git push 
