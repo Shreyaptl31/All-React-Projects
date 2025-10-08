@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>Shreya patel Implementing a Bootstrap template</h1>
+      <h1>Krish Implementing a Bootstrap template</h1>
     </>
   )
 }

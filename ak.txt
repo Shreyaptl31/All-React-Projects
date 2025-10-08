@@ -1,5 +1,3 @@
-hello this is akshay 
-
 git init
 git status
 git add .
